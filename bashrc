@@ -157,3 +157,4 @@ source "$OSH"/oh-my-bash.sh
 # alias ohmybash="mate ~/.oh-my-bash"
 alias reboot="systemctl reboot"
 alias shutdown="systemctl shutdown"
+alias ll="ls -l"
