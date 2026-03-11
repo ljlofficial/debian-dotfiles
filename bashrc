@@ -158,3 +158,5 @@ source "$OSH"/oh-my-bash.sh
 alias reboot="systemctl reboot"
 alias shutdown="systemctl shutdown"
 alias ll="ls -l"
+alias python="python3"
+alias pip3="pip"
